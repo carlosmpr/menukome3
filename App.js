@@ -7,7 +7,7 @@ import MenuScreen from './src/pages/MenuScren';
 
 export default function App() {
   return (
-<DetailScreen />
+<MainScreen />
   );
 }
 

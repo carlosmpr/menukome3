@@ -6,7 +6,7 @@ const SearchBar = () => {
         <View style={styles.container}>
         <View style={styles.search}>
          
-          <TextInput style={{ flex: 1, marginLeft: 5 }} placeholder="Search for aparment"/>
+          <TextInput style={{ flex: 1, marginLeft: 5 }} placeholder="Search"/>
           <Ionicons name="search-outline" size={24} color="black" />
         </View>
       </View>

@@ -74,11 +74,8 @@ const DetailScreen = () => {
 <Spacer space={20}></Spacer>
 <View style={{width:"100%", flexDirection:'row', flexWrap:'wrap'}}>
 <MiniCard image={aprt} title="Fries" price="2.5"/>
-<MiniCard image={aprt} title="Fries" price="2.5"/>
-<MiniCard image={aprt} title="Fries" price="2.5"/>
-<MiniCard image={aprt} title="Fries" price="2.5"/>
-<MiniCard image={aprt} title="Fries" price="2.5"/>
-<MiniCard image={aprt} title="Fries" price="2.5"/>
+
+
   </View>
   <View style={{marginVertical:10}}></View>
   <Titles  text="Drinks"/>
